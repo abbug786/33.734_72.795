@@ -19,5 +19,5 @@ Look closely. The ruins are never what they seem.
 🧩 A final twist: Not all flags are written. Some... just become committed to the past.
 
 
-RDX{Takshashila_Whispers_Heard}//the correct format and flag
+
 
